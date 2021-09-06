@@ -1,0 +1,16 @@
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.Console\bin\Debug\net5.0\AcademyG.Week1.Console.exe
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.Console\bin\Debug\net5.0\AcademyG.Week1.Console.deps.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.Console\bin\Debug\net5.0\AcademyG.Week1.Console.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.Console\bin\Debug\net5.0\AcademyG.Week1.Console.runtimeconfig.dev.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.Console\bin\Debug\net5.0\AcademyG.Week1.Console.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.Console\bin\Debug\net5.0\ref\AcademyG.Week1.Console.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.Console\bin\Debug\net5.0\AcademyG.Week1.Console.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.Console\obj\Debug\net5.0\AcademyG.Week1.Console.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.Console\obj\Debug\net5.0\AcademyG.Week1.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.Console\obj\Debug\net5.0\AcademyG.Week1.Console.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.Console\obj\Debug\net5.0\AcademyG.Week1.Console.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.Console\obj\Debug\net5.0\AcademyG.Week1.Console.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.Console\obj\Debug\net5.0\AcademyG.Week1.Console.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.Console\obj\Debug\net5.0\ref\AcademyG.Week1.Console.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.Console\obj\Debug\net5.0\AcademyG.Week1.Console.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.Console\obj\Debug\net5.0\AcademyG.Week1.Console.genruntimeconfig.cache
