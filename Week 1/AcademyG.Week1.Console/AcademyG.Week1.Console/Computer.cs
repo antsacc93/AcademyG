@@ -8,9 +8,15 @@ namespace AcademyG.Week1.Console
 {
     public class Computer : ILogging
     {
+        public static int NumeroCore = 4;
         public string Modello { get; set; }
 
         public double Prezzo { get; set; }
+
+        public static void StampaCore()
+        {
+            System.Console.WriteLine(NumeroCore);
+        }
 
         public void LogError(string messaggio)
         {

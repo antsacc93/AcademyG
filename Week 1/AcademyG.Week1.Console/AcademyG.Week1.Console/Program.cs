@@ -96,7 +96,8 @@ namespace AcademyG.Week1.Console
             impiegatoLog.LogWarning("mancherà la corrente per qualche minuto");
             impiegatoLog.LogError("il pc non si riaccenderà più");
 
-            
+            Computer.NumeroCore = 5;
+            Computer.StampaCore();
             
         }
     }

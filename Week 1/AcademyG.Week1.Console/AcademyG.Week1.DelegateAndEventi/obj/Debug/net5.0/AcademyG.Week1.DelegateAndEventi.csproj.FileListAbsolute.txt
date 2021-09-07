@@ -1,0 +1,16 @@
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.DelegateAndEventi\bin\Debug\net5.0\AcademyG.Week1.DelegateAndEventi.exe
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.DelegateAndEventi\bin\Debug\net5.0\AcademyG.Week1.DelegateAndEventi.deps.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.DelegateAndEventi\bin\Debug\net5.0\AcademyG.Week1.DelegateAndEventi.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.DelegateAndEventi\bin\Debug\net5.0\AcademyG.Week1.DelegateAndEventi.runtimeconfig.dev.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.DelegateAndEventi\bin\Debug\net5.0\AcademyG.Week1.DelegateAndEventi.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.DelegateAndEventi\bin\Debug\net5.0\ref\AcademyG.Week1.DelegateAndEventi.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.DelegateAndEventi\bin\Debug\net5.0\AcademyG.Week1.DelegateAndEventi.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.DelegateAndEventi\obj\Debug\net5.0\AcademyG.Week1.DelegateAndEventi.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.DelegateAndEventi\obj\Debug\net5.0\AcademyG.Week1.DelegateAndEventi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.DelegateAndEventi\obj\Debug\net5.0\AcademyG.Week1.DelegateAndEventi.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.DelegateAndEventi\obj\Debug\net5.0\AcademyG.Week1.DelegateAndEventi.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.DelegateAndEventi\obj\Debug\net5.0\AcademyG.Week1.DelegateAndEventi.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.DelegateAndEventi\obj\Debug\net5.0\AcademyG.Week1.DelegateAndEventi.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.DelegateAndEventi\obj\Debug\net5.0\ref\AcademyG.Week1.DelegateAndEventi.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.DelegateAndEventi\obj\Debug\net5.0\AcademyG.Week1.DelegateAndEventi.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.DelegateAndEventi\obj\Debug\net5.0\AcademyG.Week1.DelegateAndEventi.genruntimeconfig.cache

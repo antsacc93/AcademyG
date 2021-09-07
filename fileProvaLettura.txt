@@ -1,0 +1,2 @@
+Dopo aver letto fileProvaLettura.txt
+Lo sovrascrivo
