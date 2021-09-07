@@ -1,0 +1,2 @@
+	Nome cerchio; X; Y; Raggio
+values:	Mio cerchio; 5; 4; 46,7

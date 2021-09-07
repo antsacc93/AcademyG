@@ -1,0 +1,16 @@
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.FigureGeometriche\bin\Debug\net5.0\AcademyG.Week1.FigureGeometriche.exe
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.FigureGeometriche\bin\Debug\net5.0\AcademyG.Week1.FigureGeometriche.deps.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.FigureGeometriche\bin\Debug\net5.0\AcademyG.Week1.FigureGeometriche.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.FigureGeometriche\bin\Debug\net5.0\AcademyG.Week1.FigureGeometriche.runtimeconfig.dev.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.FigureGeometriche\bin\Debug\net5.0\AcademyG.Week1.FigureGeometriche.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.FigureGeometriche\bin\Debug\net5.0\ref\AcademyG.Week1.FigureGeometriche.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.FigureGeometriche\bin\Debug\net5.0\AcademyG.Week1.FigureGeometriche.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.FigureGeometriche\obj\Debug\net5.0\AcademyG.Week1.FigureGeometriche.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.FigureGeometriche\obj\Debug\net5.0\AcademyG.Week1.FigureGeometriche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.FigureGeometriche\obj\Debug\net5.0\AcademyG.Week1.FigureGeometriche.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.FigureGeometriche\obj\Debug\net5.0\AcademyG.Week1.FigureGeometriche.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.FigureGeometriche\obj\Debug\net5.0\AcademyG.Week1.FigureGeometriche.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.FigureGeometriche\obj\Debug\net5.0\AcademyG.Week1.FigureGeometriche.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.FigureGeometriche\obj\Debug\net5.0\ref\AcademyG.Week1.FigureGeometriche.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.FigureGeometriche\obj\Debug\net5.0\AcademyG.Week1.FigureGeometriche.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.FigureGeometriche\obj\Debug\net5.0\AcademyG.Week1.FigureGeometriche.genruntimeconfig.cache

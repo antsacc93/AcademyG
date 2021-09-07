@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyG.Week1.DelegateAndE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyG.Week1.Watcher", "AcademyG.Week1.Watcher\AcademyG.Week1.Watcher.csproj", "{BBB962B3-1FD0-496F-BF4F-CB523C67DD23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyG.Week1.FigureGeometriche", "AcademyG.Week1.FigureGeometriche\AcademyG.Week1.FigureGeometriche.csproj", "{A4A0F68E-29C4-4401-A8EC-58ADB170BA00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BBB962B3-1FD0-496F-BF4F-CB523C67DD23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBB962B3-1FD0-496F-BF4F-CB523C67DD23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBB962B3-1FD0-496F-BF4F-CB523C67DD23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A0F68E-29C4-4401-A8EC-58ADB170BA00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A0F68E-29C4-4401-A8EC-58ADB170BA00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A0F68E-29C4-4401-A8EC-58ADB170BA00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A0F68E-29C4-4401-A8EC-58ADB170BA00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
