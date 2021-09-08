@@ -1,0 +1,16 @@
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.ChainOfResp\bin\Debug\net5.0\AcademyG.Week1.ChainOfResp.exe
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.ChainOfResp\bin\Debug\net5.0\AcademyG.Week1.ChainOfResp.deps.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.ChainOfResp\bin\Debug\net5.0\AcademyG.Week1.ChainOfResp.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.ChainOfResp\bin\Debug\net5.0\AcademyG.Week1.ChainOfResp.runtimeconfig.dev.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.ChainOfResp\bin\Debug\net5.0\AcademyG.Week1.ChainOfResp.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.ChainOfResp\bin\Debug\net5.0\ref\AcademyG.Week1.ChainOfResp.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.ChainOfResp\bin\Debug\net5.0\AcademyG.Week1.ChainOfResp.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.ChainOfResp\obj\Debug\net5.0\AcademyG.Week1.ChainOfResp.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.ChainOfResp\obj\Debug\net5.0\AcademyG.Week1.ChainOfResp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.ChainOfResp\obj\Debug\net5.0\AcademyG.Week1.ChainOfResp.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.ChainOfResp\obj\Debug\net5.0\AcademyG.Week1.ChainOfResp.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.ChainOfResp\obj\Debug\net5.0\AcademyG.Week1.ChainOfResp.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.ChainOfResp\obj\Debug\net5.0\AcademyG.Week1.ChainOfResp.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.ChainOfResp\obj\Debug\net5.0\ref\AcademyG.Week1.ChainOfResp.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.ChainOfResp\obj\Debug\net5.0\AcademyG.Week1.ChainOfResp.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.ChainOfResp\obj\Debug\net5.0\AcademyG.Week1.ChainOfResp.genruntimeconfig.cache
