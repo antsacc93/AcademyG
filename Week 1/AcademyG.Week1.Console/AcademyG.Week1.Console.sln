@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyG.Week1.FactoryPatte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyG.Week1.ChainOfResp", "AcademyG.Week1.ChainOfResp\AcademyG.Week1.ChainOfResp.csproj", "{5844DB72-528F-4360-B792-BA8626469539}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyG.Week1.Esercitazione3", "AcademyG.Week1.Esercitazione3\AcademyG.Week1.Esercitazione3.csproj", "{A9588911-ACD3-4BFE-A86B-AB99BC3676DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{5844DB72-528F-4360-B792-BA8626469539}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5844DB72-528F-4360-B792-BA8626469539}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5844DB72-528F-4360-B792-BA8626469539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9588911-ACD3-4BFE-A86B-AB99BC3676DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9588911-ACD3-4BFE-A86B-AB99BC3676DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9588911-ACD3-4BFE-A86B-AB99BC3676DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9588911-ACD3-4BFE-A86B-AB99BC3676DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
