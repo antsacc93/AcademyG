@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcademyG.Week1.Watcher", "A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcademyG.Week1.FigureGeometriche", "AcademyG.Week1.FigureGeometriche\AcademyG.Week1.FigureGeometriche.csproj", "{A4A0F68E-29C4-4401-A8EC-58ADB170BA00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyG.Week1.FactoryPattern", "AcademyG.Week1.FactoryPattern\AcademyG.Week1.FactoryPattern.csproj", "{747D8D66-A397-4F47-839C-87CCF73BB8DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcademyG.Week1.FactoryPattern", "AcademyG.Week1.FactoryPattern\AcademyG.Week1.FactoryPattern.csproj", "{747D8D66-A397-4F47-839C-87CCF73BB8DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyG.Week1.ChainOfResp", "AcademyG.Week1.ChainOfResp\AcademyG.Week1.ChainOfResp.csproj", "{5844DB72-528F-4360-B792-BA8626469539}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcademyG.Week1.ChainOfResp", "AcademyG.Week1.ChainOfResp\AcademyG.Week1.ChainOfResp.csproj", "{5844DB72-528F-4360-B792-BA8626469539}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyG.Week1.Esercitazione3", "AcademyG.Week1.Esercitazione3\AcademyG.Week1.Esercitazione3.csproj", "{A9588911-ACD3-4BFE-A86B-AB99BC3676DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcademyG.Week1.Esercitazione3", "AcademyG.Week1.Esercitazione3\AcademyG.Week1.Esercitazione3.csproj", "{A9588911-ACD3-4BFE-A86B-AB99BC3676DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyG.Week1.Linq", "AcademyG.Week1.Linq\AcademyG.Week1.Linq.csproj", "{1A462E74-7266-4EC4-933B-02354FE0812B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{A9588911-ACD3-4BFE-A86B-AB99BC3676DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9588911-ACD3-4BFE-A86B-AB99BC3676DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9588911-ACD3-4BFE-A86B-AB99BC3676DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A462E74-7266-4EC4-933B-02354FE0812B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A462E74-7266-4EC4-933B-02354FE0812B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A462E74-7266-4EC4-933B-02354FE0812B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A462E74-7266-4EC4-933B-02354FE0812B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
