@@ -1,0 +1,15 @@
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.EsercitazioneFinale\obj\Debug\net5.0\AcademyG.Week1.EsercitazioneFinale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.EsercitazioneFinale\obj\Debug\net5.0\AcademyG.Week1.EsercitazioneFinale.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.EsercitazioneFinale\obj\Debug\net5.0\AcademyG.Week1.EsercitazioneFinale.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.EsercitazioneFinale\obj\Debug\net5.0\AcademyG.Week1.EsercitazioneFinale.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.EsercitazioneFinale\bin\Debug\net5.0\AcademyG.Week1.EsercitazioneFinale.exe
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.EsercitazioneFinale\bin\Debug\net5.0\AcademyG.Week1.EsercitazioneFinale.deps.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.EsercitazioneFinale\bin\Debug\net5.0\AcademyG.Week1.EsercitazioneFinale.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.EsercitazioneFinale\bin\Debug\net5.0\AcademyG.Week1.EsercitazioneFinale.runtimeconfig.dev.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.EsercitazioneFinale\bin\Debug\net5.0\AcademyG.Week1.EsercitazioneFinale.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.EsercitazioneFinale\bin\Debug\net5.0\ref\AcademyG.Week1.EsercitazioneFinale.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.EsercitazioneFinale\bin\Debug\net5.0\AcademyG.Week1.EsercitazioneFinale.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.EsercitazioneFinale\obj\Debug\net5.0\AcademyG.Week1.EsercitazioneFinale.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.EsercitazioneFinale\obj\Debug\net5.0\ref\AcademyG.Week1.EsercitazioneFinale.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.EsercitazioneFinale\obj\Debug\net5.0\AcademyG.Week1.EsercitazioneFinale.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week 1\AcademyG.Week1.Console\AcademyG.Week1.EsercitazioneFinale\obj\Debug\net5.0\AcademyG.Week1.EsercitazioneFinale.genruntimeconfig.cache

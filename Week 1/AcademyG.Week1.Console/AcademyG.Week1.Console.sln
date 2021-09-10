@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcademyG.Week1.ChainOfResp"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcademyG.Week1.Esercitazione3", "AcademyG.Week1.Esercitazione3\AcademyG.Week1.Esercitazione3.csproj", "{A9588911-ACD3-4BFE-A86B-AB99BC3676DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyG.Week1.Linq", "AcademyG.Week1.Linq\AcademyG.Week1.Linq.csproj", "{1A462E74-7266-4EC4-933B-02354FE0812B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcademyG.Week1.Linq", "AcademyG.Week1.Linq\AcademyG.Week1.Linq.csproj", "{1A462E74-7266-4EC4-933B-02354FE0812B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyG.Week1.EsercitazioneFinale", "AcademyG.Week1.EsercitazioneFinale\AcademyG.Week1.EsercitazioneFinale.csproj", "{853F6E77-D4A7-4F74-AA7C-1D76A3C5B932}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{1A462E74-7266-4EC4-933B-02354FE0812B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A462E74-7266-4EC4-933B-02354FE0812B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A462E74-7266-4EC4-933B-02354FE0812B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{853F6E77-D4A7-4F74-AA7C-1D76A3C5B932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853F6E77-D4A7-4F74-AA7C-1D76A3C5B932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853F6E77-D4A7-4F74-AA7C-1D76A3C5B932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853F6E77-D4A7-4F74-AA7C-1D76A3C5B932}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
