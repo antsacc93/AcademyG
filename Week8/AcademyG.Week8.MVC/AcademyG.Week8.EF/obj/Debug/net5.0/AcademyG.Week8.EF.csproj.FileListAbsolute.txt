@@ -1,0 +1,17 @@
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\bin\Debug\net5.0\AcademyG.Week8.EF.deps.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\bin\Debug\net5.0\AcademyG.Week8.EF.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\bin\Debug\net5.0\AcademyG.Week8.EF.runtimeconfig.dev.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\bin\Debug\net5.0\AcademyG.Week8.EF.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\bin\Debug\net5.0\ref\AcademyG.Week8.EF.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\bin\Debug\net5.0\AcademyG.Week8.EF.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\bin\Debug\net5.0\AcademyG.Week8.Core.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\bin\Debug\net5.0\AcademyG.Week8.Core.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\obj\Debug\net5.0\AcademyG.Week8.EF.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\obj\Debug\net5.0\AcademyG.Week8.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\obj\Debug\net5.0\AcademyG.Week8.EF.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\obj\Debug\net5.0\AcademyG.Week8.EF.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\obj\Debug\net5.0\AcademyG.Week8.EF.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\obj\Debug\net5.0\AcademyG.Week8.EF.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\obj\Debug\net5.0\ref\AcademyG.Week8.EF.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\obj\Debug\net5.0\AcademyG.Week8.EF.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\obj\Debug\net5.0\AcademyG.Week8.EF.genruntimeconfig.cache
