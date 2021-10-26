@@ -15,3 +15,4 @@ C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.W
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\obj\Debug\net5.0\ref\AcademyG.Week8.EF.dll
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\obj\Debug\net5.0\AcademyG.Week8.EF.pdb
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\obj\Debug\net5.0\AcademyG.Week8.EF.genruntimeconfig.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EF\obj\Debug\net5.0\AcademyG.Week8.EF.csproj.CopyComplete

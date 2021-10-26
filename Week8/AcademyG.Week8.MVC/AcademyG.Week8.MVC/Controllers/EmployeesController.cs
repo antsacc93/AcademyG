@@ -55,7 +55,7 @@ namespace AcademyG.Week8.MVC.Controllers
         //HTTP GET Employees/Create
         public IActionResult Create()
         {
-            return View();
+            return View(new EmployeeViewModel());
         }
 
         //HTTP POST Employees/Create
@@ -78,6 +78,38 @@ namespace AcademyG.Week8.MVC.Controllers
                 return View("ExceptionError", result);
             }
             return RedirectToAction(nameof(Index));
+        }
+
+        //GET Employees/Edit/EmployeeCode
+        public IActionResult Edit(string code)
+        {
+            if (string.IsNullOrEmpty(code))
+                return View("NotFound");
+            var empToEdit = mainBl.GetEmployeeByCode(code);
+            if (empToEdit == null)
+                return View("NotFound");
+            var empViewModel = empToEdit.ToViewModel();
+            return View(empViewModel);
+        }
+
+        //POST Employees/Edit/ + dati del dipendente da modificare
+        [HttpPost]
+        public IActionResult Edit(EmployeeViewModel evm)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(evm);
+            }
+            if (evm == null)
+                return View("ExceptionError", new ResultBL(false, "Something wrong!"));
+            //MAPPING DA VIEW MODEL -> EMPLOYEE
+            var empToEdit = evm.ToEmployee();
+            var result = mainBl.EditEmployee(empToEdit);
+            if (!result.Success)
+            {
+                return View("ExceptionError", result);
+            }
+            return View("Detail", evm);
         }
     }
 }

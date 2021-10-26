@@ -1,5 +1,7 @@
 ﻿@model IEnumerable<EmployeeViewModel>
 
+<a asp-controller="Employees" asp-action="Create">New Employee</a>
+
 <table class="table table-hover">
     <thead>
         <tr>
@@ -7,6 +9,7 @@
             <th scope="col">First Name</th>
             <th scope="col">Last Name</th>
             <th scope="col">Birthday</th>
+            <th scope="col"></th>
         </tr>
     </thead>
     <tbody>
@@ -19,6 +22,7 @@
                 <td>@item.FirstName</td>
                 <td>@item.LastName</td>
                 <td>@item.BirthDate.ToShortDateString()</td>
+                <td>@Html.ActionLink("Edit", "Edit", "Employees", new { code = item.EmployeeCode})</td>
             </tr>
         }
     </tbody>

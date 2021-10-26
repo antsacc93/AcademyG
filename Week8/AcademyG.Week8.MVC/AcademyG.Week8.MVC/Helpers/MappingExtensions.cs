@@ -13,6 +13,7 @@ namespace AcademyG.Week8.MVC.Helpers
         {
             return new EmployeeViewModel
             {
+                Id = employee.Id,
                 EmployeeCode = employee.EmployeeCode,
                 FirstName = employee.FirstName,
                 LastName = employee.LastName,
@@ -29,6 +30,7 @@ namespace AcademyG.Week8.MVC.Helpers
         {
             return new Employee
             {
+                Id = empViewModel.Id,
                 FirstName = empViewModel.FirstName,
                 LastName = empViewModel.LastName,
                 BirthDate = empViewModel.BirthDate,
