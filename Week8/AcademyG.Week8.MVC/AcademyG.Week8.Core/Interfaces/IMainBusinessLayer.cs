@@ -12,5 +12,7 @@ namespace AcademyG.Week8.Core.Interfaces
         IEnumerable<Employee> FetchEmployees(Func<Employee, bool> filter = null);
         Employee GetEmployeeById(int id);
         Employee GetEmployeeByCode(string code);
+        ResultBL CreateEmployee(Employee newEmployee);
+        ResultBL EditEmployee(Employee modifiedEmployee);
     }
 }

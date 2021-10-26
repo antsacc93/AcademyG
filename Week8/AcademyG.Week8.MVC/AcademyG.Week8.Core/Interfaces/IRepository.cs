@@ -10,5 +10,7 @@ namespace AcademyG.Week8.Core.Interfaces
     {
         IEnumerable<T> Fetch(Func<T, bool> filter = null);
         T GetById(int id);
+        bool AddItem(T item);
+        bool UpdateItem(T updatedItem);
     }
 }

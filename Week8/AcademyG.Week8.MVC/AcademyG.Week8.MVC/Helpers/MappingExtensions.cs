@@ -25,5 +25,16 @@ namespace AcademyG.Week8.MVC.Helpers
             return employees.Select(e => e.ToViewModel());
         }
 
+        public static Employee ToEmployee(this EmployeeViewModel empViewModel)
+        {
+            return new Employee
+            {
+                FirstName = empViewModel.FirstName,
+                LastName = empViewModel.LastName,
+                BirthDate = empViewModel.BirthDate,
+                EmployeeCode = empViewModel.EmployeeCode
+            };
+        }
+
     }
 }

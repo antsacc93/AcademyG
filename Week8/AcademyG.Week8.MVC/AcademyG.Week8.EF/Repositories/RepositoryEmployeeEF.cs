@@ -17,6 +17,15 @@ namespace AcademyG.Week8.EF.Repositories
             this.ctx = context;
         }
 
+        public bool AddItem(Employee item)
+        {
+            if (item == null)
+                return false;
+            ctx.Employees.Add(item);
+            ctx.SaveChanges();
+            return true;
+        }
+
         public IEnumerable<Employee> Fetch(Func<Employee, bool> filter = null)
         {
             if (filter != null)
@@ -36,6 +45,15 @@ namespace AcademyG.Week8.EF.Repositories
             if (string.IsNullOrEmpty(code))
                 return null;
             return ctx.Employees.FirstOrDefault(e => e.EmployeeCode.Equals(code));
+        }
+
+        public bool UpdateItem(Employee updatedItem)
+        {
+            if (updatedItem == null)
+                return false;
+            ctx.Entry(updatedItem).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+            ctx.SaveChanges();
+            return true;
         }
     }
 }
