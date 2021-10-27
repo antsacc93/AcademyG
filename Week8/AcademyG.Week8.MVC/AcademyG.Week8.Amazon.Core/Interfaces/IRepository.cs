@@ -12,5 +12,7 @@ namespace AcademyG.Week8.Amazon.Core.Interfaces
         T GetById(int id);
         bool AddItem(T item);
         bool UpdateItem(T updatedItem);
+
+        bool DeleteItem(int id);
     }
 }

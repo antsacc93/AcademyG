@@ -2,6 +2,7 @@
 using AcademyG.Week8.Amazon.Core.Models;
 using AcademyG.Week8.Amazon.MVC.Helper;
 using AcademyG.Week8.Amazon.MVC.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System;
@@ -98,6 +99,47 @@ namespace AcademyG.Week8.Amazon.MVC.Controllers
             return View(prodViewModel);
         }
 
+        public IActionResult Delete(int id)
+        {
+            if (id <= 0)
+                return View();
+
+            // chiamata a BL ...
+            Product data = mainBl.GetProductById(id);
+            ProductViewModel model = data.ToViewModel();
+
+            return View(model);
+        }
+
+        // HTTP POST /products/delete/16
+        [HttpPost]
+        public IActionResult Delete(int id, IFormCollection collection)
+        {
+            if (id <= 0)
+                return View();
+
+            // chiamate al BL ...
+            var result = mainBl.DeleteProductById(id);
+
+            if (!result.Success)
+            {
+                return View("Error", null);
+            } // in caso di errore
+
+            return RedirectToAction(nameof(Index));
+        }
+
+        public IActionResult DeleteJS(int id)
+        {
+            if (id <= 0)
+                return Json(false);
+
+            // chiamate al BL ...
+            var result = mainBl.DeleteProductById(id);
+
+            return Json(result.Success);
+        }
+
 
         private void LoadViewBag()
         {
@@ -109,5 +151,7 @@ namespace AcademyG.Week8.Amazon.MVC.Controllers
             //});
             ViewBag.Categories = MappingExtension.FromEnumToSelectList<ProductType>();
         }
+
+
     }
 }

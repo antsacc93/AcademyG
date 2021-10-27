@@ -1,1 +1,40 @@
-﻿
+﻿@model ProductViewModel
+
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">@Model.ProductCode</h5>
+        <p class="card-text">@Model.Description - @Model.PurchasePrice €</p>
+    </div>
+
+    <a href="#" onclick="deleteProduct(@Model.ID)">Delete</a>
+</div>
+
+@section Scripts{
+    <script>
+        //javscript code
+        function deleteProduct(productID) {
+            let confirmation = confirm("Are you sure you want to delete Employee #"
+                + productID + "?");
+
+            if (!confirmation) {
+                return;
+            }
+
+            //cancellazione employee
+            $.ajax({
+                type: 'GET',
+                url: `@Url.Action("DeleteJS", "Products")/${productID}`,
+                contentType: 'application/json; charset=utf-8',
+                success: (data) => {
+                    if (data) {
+                        location.href = "@Url.Action("Index", "Products")"
+                    }
+                }
+            });
+        }
+
+
+    </script>
+
+
+}

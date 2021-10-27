@@ -26,6 +26,16 @@ namespace AcademyG.Week8.Amazon.Core
             return new ResultBL(result, result ? "Ok!" : "Sorry, something wrong!");
         }
 
+        public ResultBL DeleteProductById(int id)
+        {
+            if (id <= 0)
+                return new ResultBL(false, "Invalid Product Id");
+
+            var result = repoProd.DeleteItem(id);
+
+            return new ResultBL(result, result ? "" : "Cannot delete Employee");
+        }
+
         public ResultBL EditProduct(Product modifiedProduct)
         {
             if (modifiedProduct == null)

@@ -28,6 +28,19 @@ namespace AcademyG.Week8.MVC.Controllers
             return View();
         }
 
+        public IActionResult About()
+        {
+            ViewBag.Company = new Organization
+            {
+                Name = "Microsoft",
+                StreetAddress = "Via Roma, 7",
+                AddressLocality = "Milano",
+                PostalCode = "00100",
+                AddressRegion = "Italy"
+            };
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

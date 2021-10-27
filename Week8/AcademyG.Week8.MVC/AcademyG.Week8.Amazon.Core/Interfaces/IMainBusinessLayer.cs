@@ -14,5 +14,7 @@ namespace AcademyG.Week8.Amazon.Core.Interfaces
         Product GetProductByCode(string code);
         ResultBL CreateProduct(Product newProduct);
         ResultBL EditProduct(Product modifiedProduct);
+
+        ResultBL DeleteProductById(int id);
     }
 }

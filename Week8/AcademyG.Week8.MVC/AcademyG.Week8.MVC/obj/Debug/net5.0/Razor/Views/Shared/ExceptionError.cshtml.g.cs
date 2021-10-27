@@ -34,7 +34,7 @@ using AcademyG.Week8.Core.Models;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"14e92abd3c5f8c6ddf7c6d4f674548cd9a2ee238", @"/Views/Shared/ExceptionError.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8d52dc6bdec149e782034c707d798f9b80cbc079", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"58382a2b7076d38f224428560a8de3d8e7602d07", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_ExceptionError : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ResultBL>
     {
         #pragma warning disable 1998

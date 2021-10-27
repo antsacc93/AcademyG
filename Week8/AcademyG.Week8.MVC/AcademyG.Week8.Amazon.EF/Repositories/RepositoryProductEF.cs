@@ -25,6 +25,22 @@ namespace AcademyG.Week8.Amazon.EF.Repositories
             return true;
         }
 
+        public bool DeleteItem(int id)
+        {
+            if (id <= 0)
+                return false;
+
+            var itemToBeDeleted = this.ctx.Products.Find(id);
+
+            if (itemToBeDeleted == null)
+                return false;
+
+            this.ctx.Products.Remove(itemToBeDeleted);
+            this.ctx.SaveChanges();
+
+            return true;
+        }
+
         public IEnumerable<Product> Fetch(Func<Product, bool> filter = null)
         {
             if (filter != null)

@@ -34,7 +34,7 @@ using AcademyG.Week8.Core.Models;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"92a07933c1cd7a3e18db1f063c0d569a68db7b0d", @"/Views/Employees/Detail.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8d52dc6bdec149e782034c707d798f9b80cbc079", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"58382a2b7076d38f224428560a8de3d8e7602d07", @"/Views/_ViewImports.cshtml")]
     public class Views_Employees_Detail : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<EmployeeViewModel>
     {
         #pragma warning disable 1998
