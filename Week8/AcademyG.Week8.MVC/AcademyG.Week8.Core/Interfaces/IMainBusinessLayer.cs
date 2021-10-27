@@ -14,5 +14,6 @@ namespace AcademyG.Week8.Core.Interfaces
         Employee GetEmployeeByCode(string code);
         ResultBL CreateEmployee(Employee newEmployee);
         ResultBL EditEmployee(Employee modifiedEmployee);
+        ResultBL DeleteEmployee(int employeeId);
     }
 }

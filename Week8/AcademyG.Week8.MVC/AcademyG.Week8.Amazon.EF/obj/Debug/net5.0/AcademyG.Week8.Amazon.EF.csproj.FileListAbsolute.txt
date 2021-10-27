@@ -11,8 +11,8 @@ C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.W
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.EF\obj\Debug\net5.0\AcademyG.Week8.Amazon.EF.AssemblyInfoInputs.cache
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.EF\obj\Debug\net5.0\AcademyG.Week8.Amazon.EF.AssemblyInfo.cs
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.EF\obj\Debug\net5.0\AcademyG.Week8.Amazon.EF.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.EF\obj\Debug\net5.0\AcademyG.Week8.Amazon.EF.csproj.CopyComplete
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.EF\obj\Debug\net5.0\AcademyG.Week8.Amazon.EF.dll
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.EF\obj\Debug\net5.0\ref\AcademyG.Week8.Amazon.EF.dll
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.EF\obj\Debug\net5.0\AcademyG.Week8.Amazon.EF.pdb
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.EF\obj\Debug\net5.0\AcademyG.Week8.Amazon.EF.genruntimeconfig.cache
-C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.EF\obj\Debug\net5.0\AcademyG.Week8.Amazon.EF.csproj.CopyComplete

@@ -56,6 +56,11 @@ C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.W
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.MVC\obj\Debug\net5.0\AcademyG.Week8.Amazon.MVC.RazorCoreGenerate.cache
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.MVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.MVC\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.MVC\obj\Debug\net5.0\Razor\Views\Products\Detail.cshtml.g.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.MVC\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.MVC\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.MVC\obj\Debug\net5.0\Razor\Views\Products\_Form.cshtml.g.cs
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -69,8 +74,4 @@ C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.W
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.MVC\obj\Debug\net5.0\ref\AcademyG.Week8.Amazon.MVC.dll
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.MVC\obj\Debug\net5.0\AcademyG.Week8.Amazon.MVC.pdb
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.MVC\obj\Debug\net5.0\AcademyG.Week8.Amazon.MVC.genruntimeconfig.cache
-C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.MVC\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
-C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.MVC\obj\Debug\net5.0\Razor\Views\Products\Detail.cshtml.g.cs
-C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.MVC\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
-C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.MVC\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
-C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.MVC\obj\Debug\net5.0\Razor\Views\Products\_Form.cshtml.g.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Amazon.MVC\bin\Debug\net5.0\libman.json

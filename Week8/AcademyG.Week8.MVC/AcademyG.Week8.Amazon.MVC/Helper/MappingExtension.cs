@@ -1,5 +1,6 @@
 ﻿using AcademyG.Week8.Amazon.Core.Models;
 using AcademyG.Week8.Amazon.MVC.Models;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,12 @@ namespace AcademyG.Week8.Amazon.MVC.Helper
 {
     public static class MappingExtension
     {
+        public static IEnumerable<SelectListItem> FromEnumToSelectList<T>() where T: struct
+        {
+            return (Enum.GetValues(typeof(T))).Cast<T>().Select(
+                    e => new SelectListItem() { Text = e.ToString(), Value = e.ToString() }).ToList();
+        }
+
         public static ProductViewModel ToViewModel(this Product product)
         {
             return new ProductViewModel

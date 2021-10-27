@@ -26,6 +26,16 @@ namespace AcademyG.Week8.Core
             return new ResultBL(result, result ? "Ok!" : "Sorry, something wrong!");
         }
 
+        public ResultBL DeleteEmployee(int employeeId)
+        {
+            if (employeeId <= 0)
+                return new ResultBL(false, "Invalid ID");
+            var result = repoEmp.DeleteItem(employeeId);
+            if (!result)
+                return new ResultBL(result, "Something wrong");
+            return new ResultBL(result, "Ok!");
+        }
+
         public ResultBL EditEmployee(Employee modifiedEmployee)
         {
             if (modifiedEmployee == null)

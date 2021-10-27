@@ -111,5 +111,15 @@ namespace AcademyG.Week8.MVC.Controllers
             }
             return View("Detail", evm);
         }
+
+        [Route("Employees/Delete/{id}")]
+        public IActionResult Delete(int id)
+        {
+            if (id <= 0)
+                return Json(false);
+            //chiamata al BL
+            var result = mainBl.DeleteEmployee(id);
+            return Json(result.Success);
+        }
     }
 }

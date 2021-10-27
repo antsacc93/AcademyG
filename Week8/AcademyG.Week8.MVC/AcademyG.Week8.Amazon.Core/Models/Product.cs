@@ -10,7 +10,8 @@ namespace AcademyG.Week8.Amazon.Core.Models
     {
         Electronic,
         Clothes,
-        HomeLife
+        HomeLife,
+        Food
     }
     public class Product
     {

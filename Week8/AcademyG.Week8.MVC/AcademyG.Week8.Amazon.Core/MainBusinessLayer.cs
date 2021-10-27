@@ -19,12 +19,20 @@ namespace AcademyG.Week8.Amazon.Core
 
         public ResultBL CreateProduct(Product newProduct)
         {
-            throw new NotImplementedException();
+            if (newProduct == null)
+                return new ResultBL(false, "Invalid Employee data");
+            var result = repoProd.AddItem(newProduct);
+
+            return new ResultBL(result, result ? "Ok!" : "Sorry, something wrong!");
         }
 
         public ResultBL EditProduct(Product modifiedProduct)
         {
-            throw new NotImplementedException();
+            if (modifiedProduct == null)
+                return new ResultBL(false, "Invalid Employee data");
+            var result = repoProd.UpdateItem(modifiedProduct);
+
+            return new ResultBL(result, result ? "Ok!" : "Cannot update Employee");
         }
 
         public IEnumerable<Product> FetchProducts(Func<Product, bool> filter = null)
@@ -36,12 +44,18 @@ namespace AcademyG.Week8.Amazon.Core
 
         public Product GetProductByCode(string code)
         {
-            throw new NotImplementedException();
+            if (string.IsNullOrEmpty(code))
+            {
+                return null;
+            }
+            return repoProd.GetProductByCode(code);
         }
 
         public Product GetProductById(int id)
         {
-            throw new NotImplementedException();
+            if (id <= 0)
+                return null;
+            return repoProd.GetById(id);
         }
     }
 }

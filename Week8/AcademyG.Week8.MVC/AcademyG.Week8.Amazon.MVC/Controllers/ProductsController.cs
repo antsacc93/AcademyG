@@ -86,14 +86,28 @@ namespace AcademyG.Week8.Amazon.MVC.Controllers
             return View("Detail", pvm);
         }
 
+        public IActionResult Detail(int id)
+        {
+            if(id <= 0)
+            {
+                return View("Index");
+            }
+            var prod = mainBl.GetProductById(id);
+            //VERIFICA SULL'OGGETTO TROVATO
+            var prodViewModel = prod.ToViewModel();
+            return View(prodViewModel);
+        }
+
 
         private void LoadViewBag()
         {
-            ViewBag.Categories = new SelectList(new[]{
-                "Electronic",
-                "Clothes",
-                "HomeLife"
-            });
+
+            //ViewBag.Categories = new SelectList(new[]{
+            //    "Electronic",
+            //    "Clothes",
+            //    "HomeLife"
+            //});
+            ViewBag.Categories = MappingExtension.FromEnumToSelectList<ProductType>();
         }
     }
 }

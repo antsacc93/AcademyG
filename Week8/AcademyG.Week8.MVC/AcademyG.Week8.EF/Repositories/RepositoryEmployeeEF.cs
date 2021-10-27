@@ -26,6 +26,20 @@ namespace AcademyG.Week8.EF.Repositories
             return true;
         }
 
+        public bool DeleteItem(int id)
+        {
+            if (id <= 0)
+                return false;
+
+            //cerchiamo l'impiegato da cancellare
+            var employeeToDelete = ctx.Employees.Find(id);
+            if (employeeToDelete == null)
+                return false;
+            ctx.Employees.Remove(employeeToDelete);
+            ctx.SaveChanges();
+            return true;
+        }
+
         public IEnumerable<Employee> Fetch(Func<Employee, bool> filter = null)
         {
             if (filter != null)

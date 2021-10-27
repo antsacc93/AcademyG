@@ -2,6 +2,7 @@ C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.W
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Core\bin\Debug\net5.0\AcademyG.Week8.Core.dll
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Core\bin\Debug\net5.0\ref\AcademyG.Week8.Core.dll
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Core\bin\Debug\net5.0\AcademyG.Week8.Core.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Core\obj\Debug\net5.0\AcademyG.Week8.Core.csproj.AssemblyReference.cache
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Core\obj\Debug\net5.0\AcademyG.Week8.Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Core\obj\Debug\net5.0\AcademyG.Week8.Core.AssemblyInfoInputs.cache
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Core\obj\Debug\net5.0\AcademyG.Week8.Core.AssemblyInfo.cs
@@ -9,4 +10,3 @@ C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.W
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Core\obj\Debug\net5.0\AcademyG.Week8.Core.dll
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Core\obj\Debug\net5.0\ref\AcademyG.Week8.Core.dll
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Core\obj\Debug\net5.0\AcademyG.Week8.Core.pdb
-C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.Core\obj\Debug\net5.0\AcademyG.Week8.Core.csproj.AssemblyReference.cache
