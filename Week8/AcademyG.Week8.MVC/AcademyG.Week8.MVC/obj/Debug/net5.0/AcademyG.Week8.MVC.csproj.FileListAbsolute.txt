@@ -77,3 +77,6 @@ C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.W
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.MVC\obj\Debug\net5.0\AcademyG.Week8.MVC.pdb
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.MVC\obj\Debug\net5.0\AcademyG.Week8.MVC.genruntimeconfig.cache
 C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.MVC\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.MVC\obj\Debug\net5.0\Razor\Views\User\Forbidden.cshtml.g.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.MVC\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.MVC\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs

@@ -58,6 +58,7 @@ namespace AcademyG.Week8.MVC.Controllers
         }
 
         //HTTP GET Employees/Create
+        [Authorize(Policy = "AdministratorUser")]
         public IActionResult Create()
         {
             return View(new EmployeeViewModel());

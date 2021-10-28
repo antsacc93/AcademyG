@@ -50,7 +50,7 @@ namespace AcademyG.Week8.MVC
                     options =>
                     {
                         options.LoginPath = new PathString("/User/Login");
-                        options.AccessDeniedPath = new PathString("User/Forbidden");
+                        options.AccessDeniedPath = new PathString("/User/Forbidden");
                     }
                 );
 

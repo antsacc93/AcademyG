@@ -1,8 +1,10 @@
 ﻿using AcademyG.Week8.Core.Interfaces;
 using AcademyG.Week8.Core.Models;
+using AcademyG.Week8.MVC.Helpers;
 using AcademyG.Week8.MVC.Models;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -12,6 +14,7 @@ using System.Threading.Tasks;
 
 namespace AcademyG.Week8.MVC.Controllers
 {
+    [AllowAnonymous]
     public class UserController : Controller
     {
         private readonly IMainBusinessLayer bl;
@@ -85,6 +88,28 @@ namespace AcademyG.Week8.MVC.Controllers
         public IActionResult Forbidden()
         {
             return View();
+        }
+
+        public IActionResult Register()
+        {
+            return View(new UserRegistrationViewModel());
+        }
+
+        [HttpPost]
+        public IActionResult Register(UserRegistrationViewModel urvm)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(urvm);
+            }
+
+            //mapping da UserRegistrationViewModel -> User
+            var user = urvm.ToUser();
+            //Aggiunta a db del nuovo utente
+            var result = bl.AddNewUser(user);
+            if (result.Success)
+                return Redirect("/");
+            return View("ExceptionError", result);
         }
     }
 }

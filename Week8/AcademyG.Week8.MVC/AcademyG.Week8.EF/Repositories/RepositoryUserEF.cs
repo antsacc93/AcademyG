@@ -19,7 +19,11 @@ namespace AcademyG.Week8.EF.Repositories
 
         public bool AddItem(User item)
         {
-            throw new NotImplementedException();
+            if (item == null)
+                return false;
+            _ctx.Users.Add(item);
+            _ctx.SaveChanges();
+            return true;
         }
 
         public bool DeleteItem(int id)

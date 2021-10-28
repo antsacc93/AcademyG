@@ -20,6 +20,18 @@ namespace AcademyG.Week8.Core
             this.repoUser = repoUser;
         }
 
+        public ResultBL AddNewUser(User user)
+        {
+            if(user == null)
+            {
+                return new ResultBL(false, "Invalid user");
+            }
+            var result = repoUser.AddItem(user);
+            if (!result)
+                return new ResultBL(result, "Something wrong!");
+            return new ResultBL(result, "Ok!");
+        }
+
         public ResultBL CreateEmployee(Employee newEmployee)
         {
             if (newEmployee == null)

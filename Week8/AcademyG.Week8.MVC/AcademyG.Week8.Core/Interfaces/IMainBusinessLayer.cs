@@ -21,6 +21,7 @@ namespace AcademyG.Week8.Core.Interfaces
         #region USER
 
         User GetUserByEmail(string email);
+        ResultBL AddNewUser(User user);
 
         #endregion
     }

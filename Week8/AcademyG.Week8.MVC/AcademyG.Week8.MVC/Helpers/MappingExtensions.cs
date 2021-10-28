@@ -38,5 +38,15 @@ namespace AcademyG.Week8.MVC.Helpers
             };
         }
 
+        public static User ToUser(this UserRegistrationViewModel userViewModel)
+        {
+            return new User
+            {
+                Email = userViewModel.Email,
+                Password = userViewModel.Password,
+                Role = Role.User
+            };
+        }
+
     }
 }

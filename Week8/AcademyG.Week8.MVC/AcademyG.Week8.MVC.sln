@@ -11,11 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcademyG.Week8.EF", "Academ
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Esercitazione", "Esercitazione", "{55DC7DF9-30F7-4873-BA5D-8EAA799D6D02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyG.Week8.Amazon.MVC", "AcademyG.Week8.Amazon.MVC\AcademyG.Week8.Amazon.MVC.csproj", "{151B6F27-12F3-418E-8DDE-15FCBFC16248}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcademyG.Week8.Amazon.MVC", "AcademyG.Week8.Amazon.MVC\AcademyG.Week8.Amazon.MVC.csproj", "{151B6F27-12F3-418E-8DDE-15FCBFC16248}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyG.Week8.Amazon.Core", "AcademyG.Week8.Amazon.Core\AcademyG.Week8.Amazon.Core.csproj", "{6A5C3483-459C-4597-AEF2-499333A685B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcademyG.Week8.Amazon.Core", "AcademyG.Week8.Amazon.Core\AcademyG.Week8.Amazon.Core.csproj", "{6A5C3483-459C-4597-AEF2-499333A685B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyG.Week8.Amazon.EF", "AcademyG.Week8.Amazon.EF\AcademyG.Week8.Amazon.EF.csproj", "{1D80F395-0213-485D-A60F-CB587FF667C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcademyG.Week8.Amazon.EF", "AcademyG.Week8.Amazon.EF\AcademyG.Week8.Amazon.EF.csproj", "{1D80F395-0213-485D-A60F-CB587FF667C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

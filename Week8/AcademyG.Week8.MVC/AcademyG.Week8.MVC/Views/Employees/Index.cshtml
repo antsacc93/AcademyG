@@ -1,6 +1,9 @@
 ﻿@model IEnumerable<EmployeeViewModel>
 
+@if (User.IsInRole("Administator")) { 
 <a asp-controller="Employees" asp-action="Create">New Employee</a>
+}
+
 
 <table class="table table-hover">
     <thead>

@@ -1,0 +1,18 @@
+﻿@model UserRegistrationViewModel
+
+<form method="post">
+    <div asp-validation-summary="ModelOnly"></div>
+
+    <label asp-for="Email">Email</label>
+    <input asp-for="Email" />
+    <span asp-validation-for="Email"></span>
+
+    <label asp-for="Password">Password</label>
+    <input asp-for="Password" />
+    <span asp-validation-for="Password"></span>
+
+    <input type="submit" value="Register"/>
+
+</form>
+
+<a asp-controller="User" asp-action="Login" class="btn btn-info">Back</a>
