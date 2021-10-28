@@ -11,6 +11,7 @@ namespace AcademyG.Week8.EF
     public class EmployeeContext : DbContext
     {
         public DbSet<Employee> Employees { get; set; }
+        public DbSet<User> Users { get; set; }
 
         public EmployeeContext(DbContextOptions<EmployeeContext> options) : base(options)
         {
@@ -19,6 +20,7 @@ namespace AcademyG.Week8.EF
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
+            #region EMPLOYEE
             var employeeEntity = builder.Entity<Employee>();
 
             employeeEntity.HasKey(e => e.Id);
@@ -55,6 +57,32 @@ namespace AcademyG.Week8.EF
                         BirthDate = new DateTime(1990, 2, 2)
                     }
                 );
+            #endregion
+
+            #region USER
+            var userEntity = builder.Entity<User>();
+            userEntity.HasKey(i => i.Id);
+            userEntity.Property(e => e.Email).IsRequired();
+            userEntity.Property(p => p.Password).IsRequired();
+            userEntity.Property(r => r.Role).IsRequired();
+
+            userEntity.HasData(
+                new User
+                {
+                    Id = 1,
+                    Email = "mrossi@abc.it",
+                    Password = "1234",
+                    Role = Role.Administator
+                },
+                new User
+                {
+                    Id = 2,
+                    Email = "asacchitella@abc.it",
+                    Password = "5678",
+                    Role = Role.User
+                }
+                );
+            #endregion
         }
 
     }

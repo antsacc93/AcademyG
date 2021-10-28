@@ -2,8 +2,11 @@ using AcademyG.Week8.Core;
 using AcademyG.Week8.Core.Interfaces;
 using AcademyG.Week8.EF;
 using AcademyG.Week8.EF.Repositories;
+using AcademyG.Week8.MVC.Filters;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -28,14 +31,37 @@ namespace AcademyG.Week8.MVC
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllersWithViews();
+            services.AddControllersWithViews(
+                //configurazione globale del filtro
+                //options => options.Filters.Add(new LogFilterAttribute())
+            );
             services.AddTransient<IMainBusinessLayer, MainBusinessLayer>();
             services.AddTransient<IRepositoryEmployee, RepositoryEmployeeEF>();
+            services.AddTransient<IRepositoryUser, RepositoryUserEF>();
 
             services.AddDbContext<EmployeeContext>(options =>
             {
                 options.UseSqlServer(Configuration.GetConnectionString("EmployeeDB"));
             });
+
+            //AGGIUNGIAMO FILTRO DI AUTENTICAZIONE
+            services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+                .AddCookie(
+                    options =>
+                    {
+                        options.LoginPath = new PathString("/User/Login");
+                        options.AccessDeniedPath = new PathString("User/Forbidden");
+                    }
+                );
+
+            //FILTRO DI AUTORIZZAZIONE
+            services.AddAuthorization(
+                options =>
+                {
+                    options.AddPolicy("AdministratorUser", policy => policy.RequireRole("Administrator"));
+                    options.AddPolicy("SimpleUser", policy => policy.RequireRole("User"));
+                }
+            );
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -56,7 +82,9 @@ namespace AcademyG.Week8.MVC
 
             app.UseRouting();
 
-            app.UseAuthorization();
+            //HA IMPORTANZA L'ORDINE
+            app.UseAuthentication(); //1
+            app.UseAuthorization(); //2
 
             app.UseEndpoints(endpoints =>
             {

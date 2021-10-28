@@ -1,7 +1,9 @@
 ﻿using AcademyG.Week8.Core.Interfaces;
 using AcademyG.Week8.Core.Models;
+using AcademyG.Week8.MVC.Filters;
 using AcademyG.Week8.MVC.Helpers;
 using AcademyG.Week8.MVC.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -10,6 +12,8 @@ using System.Threading.Tasks;
 
 namespace AcademyG.Week8.MVC.Controllers
 {
+    //Configurazione filtro su tutto il controller
+    //[LogFilterAttribute]
     public class EmployeesController : Controller
     {
         private readonly IMainBusinessLayer mainBl;
@@ -41,6 +45,7 @@ namespace AcademyG.Week8.MVC.Controllers
         }
 
         //GET Employees/Detail/{code}
+        [LogFilterAttribute]
         public IActionResult Detail(string code)
         {
             if (string.IsNullOrEmpty(code))
@@ -59,6 +64,7 @@ namespace AcademyG.Week8.MVC.Controllers
         }
 
         //HTTP POST Employees/Create
+        [LogFilterAttribute]
         [HttpPost]
         public IActionResult Create(EmployeeViewModel model)
         {
@@ -112,6 +118,7 @@ namespace AcademyG.Week8.MVC.Controllers
             return View("Detail", evm);
         }
 
+        [Authorize(Policy = "AdministratorUser")]
         [Route("Employees/Delete/{id}")]
         public IActionResult Delete(int id)
         {

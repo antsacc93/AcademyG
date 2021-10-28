@@ -11,10 +11,13 @@ namespace AcademyG.Week8.Core
     public class MainBusinessLayer : IMainBusinessLayer
     {
         private readonly IRepositoryEmployee repoEmp;
+        private readonly IRepositoryUser repoUser;
 
-        public MainBusinessLayer(IRepositoryEmployee repoEmployee)
+        public MainBusinessLayer(IRepositoryEmployee repoEmployee, 
+                                IRepositoryUser repoUser)
         {
             this.repoEmp = repoEmployee;
+            this.repoUser = repoUser;
         }
 
         public ResultBL CreateEmployee(Employee newEmployee)
@@ -64,6 +67,13 @@ namespace AcademyG.Week8.Core
             if (id <= 0)
                 return null;
             return this.repoEmp.GetById(id);
+        }
+
+        public User GetUserByEmail(string email)
+        {
+            if (string.IsNullOrEmpty(email))
+                return null;
+            return repoUser.GetByEmail(email);
         }
     }
 }
