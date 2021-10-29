@@ -1,0 +1,63 @@
+﻿@model IEnumerable<DishViewModel>
+
+
+@if (User.IsInRole("Caterer"))
+{
+    <a asp-controller="Dishes" asp-action="Create"> New Dish </a>
+}
+
+<br />
+<br />
+<form method="post">
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th scope="col">Type</th>
+                <th scope="col">Name</th>
+                <th scope="col">Price</th>
+                @if (User.IsInRole("Customer"))
+                {
+                    <th scope="col">Checked</th>
+                }
+                <th scope="col">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+
+                foreach (var item in Model)
+                {
+                    <tr>
+
+                        <td>@item.DishType</td>
+                        <td>@item.Name</td>
+                        <td>@item.Price € </td>
+
+                        <td>
+                            <a asp-controller="Dishes" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                            |
+                            <a asp-controller="Dishes" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                            |
+
+
+                            @if (item.MenuID == 0 && User.IsInRole("Caterer"))
+                            {
+                                <a asp-controller="Dishes" asp-action="Assign" asp-route-id="@item.Id">Assign</a>
+                            }
+
+                        </td>
+
+                    </tr>
+
+
+                }
+            }
+        </tbody>
+    </table>
+
+
+    @if (User.IsInRole("Customer"))
+    {
+        <input type="submit" value="Confirm" class="btn btn-primary" />
+    }
+</form>

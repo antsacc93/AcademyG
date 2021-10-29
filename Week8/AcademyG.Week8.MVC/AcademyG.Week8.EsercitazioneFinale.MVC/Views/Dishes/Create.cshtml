@@ -1,0 +1,17 @@
+﻿@model DishViewModel
+
+<div class="container-fluid">
+
+    <div class="row mb-2 mb-lg-0">
+
+        <div class="col-4"></div>
+        <form method="post">
+            <partial name="_FormDish" model="Model" />
+
+            <input type="submit" value="Create" class="btn btn-primary" />
+            Or
+            <a role="button" class="btn btn-success" asp-controller="Dishes" asp-action="Index">Back</a>
+
+        </form>
+    </div>
+</div> 

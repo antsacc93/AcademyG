@@ -16,6 +16,7 @@ namespace AcademyG.Week8.Amazon.MVC.Helper
                     e => new SelectListItem() { Text = e.ToString(), Value = e.ToString() }).ToList();
         }
 
+
         public static ProductViewModel ToViewModel(this Product product)
         {
             return new ProductViewModel

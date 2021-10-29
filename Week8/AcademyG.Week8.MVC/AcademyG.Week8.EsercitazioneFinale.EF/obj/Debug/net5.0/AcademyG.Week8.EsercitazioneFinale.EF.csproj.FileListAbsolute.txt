@@ -1,0 +1,17 @@
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.EF\bin\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.EF.deps.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.EF\bin\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.EF.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.EF\bin\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.EF.runtimeconfig.dev.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.EF\bin\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.EF.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.EF\bin\Debug\net5.0\ref\AcademyG.Week8.EsercitazioneFinale.EF.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.EF\bin\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.EF.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.EF\bin\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.Core.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.EF\bin\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.Core.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.EF\obj\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.EF.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.EF\obj\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.EF\obj\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.EF.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.EF\obj\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.EF.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.EF\obj\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.EF.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.EF\obj\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.EF.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.EF\obj\Debug\net5.0\ref\AcademyG.Week8.EsercitazioneFinale.EF.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.EF\obj\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.EF.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.EF\obj\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.EF.genruntimeconfig.cache

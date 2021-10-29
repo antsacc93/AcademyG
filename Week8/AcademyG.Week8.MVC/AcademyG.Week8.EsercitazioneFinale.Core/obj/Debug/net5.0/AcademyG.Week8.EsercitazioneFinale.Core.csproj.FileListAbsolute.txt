@@ -1,0 +1,12 @@
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.Core\bin\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.Core.deps.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.Core\bin\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.Core.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.Core\bin\Debug\net5.0\ref\AcademyG.Week8.EsercitazioneFinale.Core.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.Core\bin\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.Core.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.Core\obj\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.Core.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.Core\obj\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.Core\obj\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.Core.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.Core\obj\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.Core.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.Core\obj\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.Core.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.Core\obj\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.Core.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.Core\obj\Debug\net5.0\ref\AcademyG.Week8.EsercitazioneFinale.Core.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyG\Week8\AcademyG.Week8.MVC\AcademyG.Week8.EsercitazioneFinale.Core\obj\Debug\net5.0\AcademyG.Week8.EsercitazioneFinale.Core.pdb
